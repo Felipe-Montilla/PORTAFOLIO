@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="INDEX.CSS/style.css">
+</head>
+<body>
+    <header>
+        <img src="foto...jpg" alt="Felipe ">
+        <h1>PORTAFOLIO</h1>
+    </header>
+    <main>
+        <h2>FUNDAMENTO DE DISEÑO WEB</h2>
+        <ul>
+            <li>
+                <a href="">Primer Clase</a>
+                html intro
+            </li>
+            <li>
+                <a href="20241130">Segunda Clase</a>
+               ": enrutamiento y tablas"
+            </li>
+            <li>
+                <a href="20241207">tercera clase</a>
+                " semantica "
+            </li>
+            <li>
+                <a href="20241214">Cuarta clase</a>
+                ": ID's y Classes"
+            </li>
+            <li>
+                <a href="20250208">Media Queries</a>
+                ": ID's y classes"
+            </li>
+            <li>
+                <a href="proyecto/proyecto.html">proyecto final</a>
+                ": proyecto final"
+            </li>
+        </ul>
+    </main>
+    <footer>
+        <h3>©2024 .:|:. Felipe Montilla .:|:. Popayán, COL </h3>
+    </footer>
+</body>
+</html>
